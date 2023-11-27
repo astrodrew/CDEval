@@ -6,7 +6,11 @@ As LLMs like GPT-4 become increasingly capable, ensuring their alignment with di
 ## The pipeline of benchmark construction 
 ![](images/pipeline.png?v=1&type=image)
 ## The statistics of CDEval
-![](images/statistic-1.png?v=1&type=image)
+<p float="left">
+  <img src="images/statistic-1.png" width="400" />
+  <img src="images/statistic-2.png" width="400" /> 
+</p>
+
 ## The examples of CDEval
 ![](images/data_examples.png?v=1&type=image)
 ## The overall measurement result of LLMs' cultural dimensions
