@@ -38,5 +38,12 @@ Download the data from this [LINK](https://drive.google.com/drive/folders/1m6IIy
 
 ## Citation
 ```
-
+@article{wang2023cdeval,
+      title={CDEval: A Benchmark for Measuring the Cultural Dimensions of Large Language Models}, 
+      author={Yuhang Wang and Yanxu Zhu and Chao Kong and Shuyu Wei and Xiaoyuan Yi and Xing Xie and Jitao Sang},
+      year={2023},
+      eprint={2311.16421},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
