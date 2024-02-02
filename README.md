@@ -2,6 +2,7 @@
 <div align="center">
     <a href="http://arxiv.org/abs/2311.16421"><img src="images/Paper-Arxiv-orange.svg" ></a>
 </div>
+
 ## Motivation
 As the scaling of Large Language Models (LLMs) has dramatically enhanced their capabilities, there has been a growing focus on the alignment problem to ensure their responsible and ethical use. 
 While existing alignment efforts predominantly concentrate on universal values such as the HHH principle, the aspect of culture, which is inherently pluralistic and diverse, 
